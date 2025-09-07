@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "FumacaDieselAPP",
-    "slug": "FumacaDieselAPP",
+    "name": "Fumaca Diesel APP",
+    "slug": "fumaca-diesel-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "fumacadieselapp",
+    "scheme": "fumaca-diesel-app",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
