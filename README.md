@@ -85,6 +85,6 @@ FumacaDieselAPP/
 
 ## 🙋‍♂️ Contato
 
-Desenvolvido por [Henrique Campaner](https://github.com/HenriqueCamarg0).
+Desenvolvido por [Henrique Camargo](https://github.com/HenriqueCamarg0).
 
 ---
